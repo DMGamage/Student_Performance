@@ -20,3 +20,11 @@ P
  src/components/data_ingestion.py,4/e/4eb41a081f57c484f017fa2f1b0f3a4686789fc9
 O
 src/components/model_trainer.py,6/9/695adf0aa9b8163c4b3dcdcbfa2875f03497c774
+6
+app.py,1/3/13cce7fd076299c81b4986166f3d822791c9490e
+P
+ src/pipeline/predict_pipeline.py,d/7/d7b371e9e470250ada1a1976e4cb65d23170b7aa
+C
+templates/home.html,8/6/86f3a00c4de0ad1280042b4c75ce3672e5141a0f
+D
+templates/index.html,f/6/f69b8ce2e31684ae06f1b3e84821e07e3dfddb2f
