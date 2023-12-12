@@ -1,0 +1,4 @@
+
+upython:S117#"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(þßý£8”¢žäÅ1
+vpython:S117#"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(þßý£8”¢žäÅ1
+ipython:S3457g"EAdd replacement fields or use a normal string instead of an f-string.(ÜÐ”ôüÿÿÿÿ8”¢žäÅ1
